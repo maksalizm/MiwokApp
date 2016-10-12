@@ -540,6 +540,7 @@ int id image 0x7f0b0029
 int id info 0x7f0b0067
 int id line1 0x7f0b0061
 int id line3 0x7f0b0065
+int id list 0x7f0b005a
 int id listMode 0x7f0b0009
 int id list_item 0x7f0b002b
 int id media_actions 0x7f0b005f
@@ -554,7 +555,6 @@ int id phrases 0x7f0b0059
 int id progress_circular 0x7f0b0005
 int id progress_horizontal 0x7f0b0006
 int id radio 0x7f0b003e
-int id rootView 0x7f0b005a
 int id screen 0x7f0b0015
 int id scrollIndicatorDown 0x7f0b0038
 int id scrollIndicatorUp 0x7f0b0035
