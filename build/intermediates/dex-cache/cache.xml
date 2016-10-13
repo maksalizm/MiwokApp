@@ -3,156 +3,156 @@
 
     <item
         is-multidex="true"
-        jar="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3fc172617aeccad8f90cf32a874e2b99d99d97cb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_1f0daec3699a891eb22f0016c3c6588d4aec4c16/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="c5a3b29071711989b145cace307ebe2d198e2854">
-        <dex dex="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bd909dbdd9daa5ea755939147a4292abc8138cc2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_14a752907237eda70ee8cefd685ad74d10d06ac9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jar="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_4a2e2ca9deb080638caa1e49f17ebff2f281864d/classes.dex" />
+        <dex dex="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_fe3add1219c5cb6d771444d6e3e61ea93bc9fa2c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="2180db6cfec63f44034e53db2761b99386ea1947">
-        <dex dex="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_68c623712922ebd0c3f62c9abfc4c80bb7c356c8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_8c066ec2b78ab65fb70e57dbfed293f36990e06f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1913dbd559b96c182c7383ab7399e6229a49514b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/maksalizm/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_aaaea7049e15a39f7da0453860498f3af6e8dcc7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_4487321b4156f772aedb4e1b8c6ef45ae05b94b8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jar="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_05ffedc7eedb48c6413d968273560c1fd58b8b43/classes.dex" />
+        <dex dex="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_f629b9a8518e59f6960a0dcead15651d779128c9/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jar="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_272ecce61877770a5ddf146ffc49424d91dbfeae/classes.dex" />
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_ef8a300a539039579f2d39886383e189f113001a/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jar="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_ee784b6ac722f12e993dcfb2c28c7a64768084f8/classes.dex" />
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_eaf08cb721ef2cf82ec6221a21b5045fae501abc/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_72b8503f8e4569417b7825e131805b99685d8311/classes.dex" />
+        sha1="3867c24005ec25297e9e47f5889fc307dea816ca">
+        <dex dex="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e9e5487a7b82bead858b007bbe2454ec8e928d20/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_7f1919fd9e3e7da62b7c5be9327137fe22399c7e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0f762e7f3240f357770b67238a8f16babfe9ed93/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jar="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_54a26e139e603e3f05e162c414c32a0d7c3b7f8e/classes.dex" />
+        <dex dex="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_a653f0a461fe4419e4c6da63857cb8160b41b015/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e8356862cbc4caa1c16d20062eafbd03ad55a010/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_fda5d5f958fb37a66e21f635f5cc3dcce70eec32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1adba21b920e0decd4a6da846e3e01ebc8751e55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pms/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_c153640e58ea7f443d7c31ff7424d7f29190b2ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_90b3b63adf941b0691ec6a6e20d887449cc58fa1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="734219a3b8338414d7442e3e0d141a1ea1164a2b">
+        <dex dex="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8725f20f4e0f811cd070b99f771fc47bea4f98ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_f4e75ce74c0dceae6fbe9e2989d55751cc6fa225/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_6da43a94307c5106b80a6dd648b33dafc3860e7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_c0a489c74fcc4945b23dc8718626565c1efc6bd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_445e8eb20a4557c59b71761720a5447cbc1b8325/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_86c0e12f8a46734170377cf6398271967be87ff2/classes.dex" />
     </item>
 
 </items>

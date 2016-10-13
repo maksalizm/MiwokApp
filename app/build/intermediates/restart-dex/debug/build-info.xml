@@ -4,33 +4,64 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="207283315633192"
-    token="-576450779278117170"
-    verifier="FULL_BUILD_REQUESTED" >
+    timestamp="108505356659725"
+    token="934838671344000270"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="1487" />
+        duration="75" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="12" />
     <task
         name="instant-run-transform"
-        duration="539" />
+        duration="9" />
     <task
         name="verifier"
-        duration="33" />
+        duration="0" />
 
     <artifact
-        location="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
 
     <build
-        timestamp="207283315633192"
+        timestamp="103503006358406"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/outputs/apk/app-debug.apk"
+            location="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="107448782600902"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="108108125718162"
+        verifier="FIELD_TYPE_CHANGE" >
+        <artifact
+            location="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="108207423927894"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/builds/debug/108207423927894/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="108505356659725"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

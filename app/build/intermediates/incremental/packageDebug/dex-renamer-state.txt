@@ -1,7 +1,7 @@
-#Thu Oct 13 01:17:08 KST 2016
-base.0=/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_68c623712922ebd0c3f62c9abfc4c80bb7c356c8
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bd909dbdd9daa5ea755939147a4292abc8138cc2/classes.dex
-base.1=/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bd909dbdd9daa5ea755939147a4292abc8138cc2
-file.0=/Users/maksalizm/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_68c623712922ebd0c3f62c9abfc4c80bb7c356c8/classes.dex
+#Thu Oct 13 17:57:29 KST 2016
+base.0=/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e9e5487a7b82bead858b007bbe2454ec8e928d20
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8725f20f4e0f811cd070b99f771fc47bea4f98ee/classes.dex
+base.1=/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8725f20f4e0f811cd070b99f771fc47bea4f98ee
+file.0=/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e9e5487a7b82bead858b007bbe2454ec8e928d20/classes.dex
