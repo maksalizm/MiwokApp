@@ -64,16 +64,16 @@
         "source": "/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_view.xml"
     },
     {
-        "merged": "/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_select_dialog_material.xml"
+        "merged": "/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/res/merged/debug/layout/word_list.xml",
+        "source": "/Users/pms/AndroidStudioProjects/MiwokApp/app/src/main/res/layout/word_list.xml"
     },
     {
         "merged": "/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/res/merged/debug/layout/list_item.xml",
         "source": "/Users/pms/AndroidStudioProjects/MiwokApp/app/src/main/res/layout/list_item.xml"
     },
     {
-        "merged": "/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/res/merged/debug/layout/word_list.xml",
-        "source": "/Users/pms/AndroidStudioProjects/MiwokApp/app/src/main/res/layout/word_list.xml"
+        "merged": "/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_select_dialog_material.xml"
     },
     {
         "merged": "/Users/pms/AndroidStudioProjects/MiwokApp/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
