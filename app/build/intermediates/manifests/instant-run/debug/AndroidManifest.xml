@@ -24,16 +24,20 @@
         </activity>
         <activity
             android:name="com.example.pms.miwokapp.NumbersActivity"
-            android:label="@string/category_numbers" />
+            android:label="@string/category_numbers"
+            android:parentActivityName="com.example.pms.miwokapp.MainActivity" />
         <activity
             android:name="com.example.pms.miwokapp.PhrasesActivity"
-            android:label="@string/category_phrases" />
+            android:label="@string/category_phrases"
+            android:parentActivityName="com.example.pms.miwokapp.MainActivity" />
         <activity
             android:name="com.example.pms.miwokapp.FamilyActivity"
-            android:label="@string/category_family" />
+            android:label="@string/category_family"
+            android:parentActivityName="com.example.pms.miwokapp.MainActivity" />
         <activity
             android:name="com.example.pms.miwokapp.ColorsActivity"
-            android:label="@string/category_colors" />
+            android:label="@string/category_colors"
+            android:parentActivityName="com.example.pms.miwokapp.MainActivity" />
     </application>
 
 </manifest>
